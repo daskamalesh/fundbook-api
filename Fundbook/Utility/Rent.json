@@ -1,0 +1,24 @@
+[
+  {
+    "UserID": 1,
+    "ID": 1,
+    "MonthID": 101,
+    "Amount": 13000.0,
+    "IsActive": false,
+    "EntryDate": "01/01/2026",
+    "UserName": "Rony",
+    "Month": "January",
+    "ShowActiveOnly": "false"
+  },
+  {
+    "UserID": 1,
+    "ID": 2,
+    "MonthID": 106,
+    "Amount": 13000.0,
+    "IsActive": false,
+    "EntryDate": "01/06/2026",
+    "UserName": "Rony",
+    "Month": "June",
+    "ShowActiveOnly": "false"
+  }
+]

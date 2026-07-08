@@ -1,0 +1,27 @@
+[
+  {
+    "ID": 1,
+    "QuantityType": "kg",
+    "IsActive": "false"
+  },
+  {
+    "ID": 2,
+    "QuantityType": "gm",
+    "IsActive": "false"
+  },
+  {
+    "ID": 3,
+    "QuantityType": "ltr",
+    "IsActive": "false"
+  },
+  {
+    "ID": 4,
+    "QuantityType": "pcs",
+    "IsActive": "false"
+  },
+   {
+    "ID": 5,
+    "QuantityType": "pkt",
+    "IsActive": "false"
+  }
+]

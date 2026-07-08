@@ -1,0 +1,62 @@
+[
+  {
+    "LoginSessionID": 0,
+    "LoginRoleTypeID": 1000,
+    "RunAsLive": 0,
+    "LoginHistoryID": 0,
+    "LoginUserID": 100,
+    "UserID": 1,
+    "UserName": "Rony",
+    "Password": "password",
+    "RemoteAddress": "",
+    "UserAgent": ""
+  },
+  {
+    "LoginSessionID": 0,
+    "LoginRoleTypeID": 1000,
+    "RunAsLive": 0,
+    "LoginHistoryID": 0,
+    "LoginUserID": 100,
+    "UserID": 2,
+    "UserName": "Kamalesh",
+    "Password": "password",
+    "RemoteAddress": "",
+    "UserAgent": ""
+  },
+  {
+    "LoginSessionID": 0,
+    "LoginRoleTypeID": 1000,
+    "RunAsLive": 0,
+    "LoginHistoryID": 0,
+    "LoginUserID": 100,
+    "UserID": 3,
+    "UserName": "Nilay",
+    "Password": "password",
+    "RemoteAddress": "",
+    "UserAgent": ""
+  },
+  {
+    "LoginSessionID": 0,
+    "LoginRoleTypeID": 1000,
+    "RunAsLive": 0,
+    "LoginHistoryID": 0,
+    "LoginUserID": 100,
+    "UserID": 4,
+    "UserName": "Bode",
+    "Password": "password",
+    "RemoteAddress": "",
+    "UserAgent": ""
+  },
+  {
+    "LoginSessionID": 0,
+    "LoginRoleTypeID": 2000,
+    "RunAsLive": 0,
+    "LoginHistoryID": 0,
+    "LoginUserID": 200,
+    "UserID": 5,
+    "UserName": "Admin",
+    "Password": "password",
+    "RemoteAddress": "",
+    "UserAgent": ""
+  }
+]

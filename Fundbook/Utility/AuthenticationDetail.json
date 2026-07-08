@@ -1,0 +1,67 @@
+[
+  {
+    "UserID": 1,
+    "UserLoginID": 100,
+    "LoginRoleID": 1,
+    "MenuID": 5,
+    "UserName": "Rony",
+    "FullName": "Rajendra Koley",
+    "Password": "password",
+    "MenuName": "Dashboard",
+    "RoutingPath": "/dashboard",
+    "IconCssClass": "icon-dashboard",
+    "IconColorCssClass": "icon-blue"
+  },
+  {
+    "UserID": 2,
+    "UserLoginID": 100,
+    "LoginRoleID": 1,
+    "MenuID": 5,
+    "UserName": "Kamalesh",
+    "FullName": "Kamalesh Das",
+    "Password": "password",
+    "MenuName": "Dashboard",
+    "RoutingPath": "/dashboard",
+    "IconCssClass": "icon-dashboard",
+    "IconColorCssClass": "icon-blue"
+  },
+  {
+    "UserID": 3,
+    "UserLoginID": 100,
+    "LoginRoleID": 1,
+    "MenuID": 5,
+    "UserName": "Nilay",
+    "FullName": "Nilay Basak",
+    "Password": "password",
+    "MenuName": "Dashboard",
+    "RoutingPath": "/dashboard",
+    "IconCssClass": "icon-dashboard",
+    "IconColorCssClass": "icon-blue"
+  },
+  {
+    "UserID": 4,
+    "UserLoginID": 100,
+    "LoginRoleID": 1,
+    "MenuID": 5,
+    "UserName": "Bode",
+    "FullName": "Souvik Biswas",
+    "Password": "password",
+    "MenuName": "Dashboard",
+    "RoutingPath": "/dashboard",
+    "IconCssClass": "icon-dashboard",
+    "IconColorCssClass": "icon-blue"
+  },
+  {
+    "UserID": 5,
+    "UserLoginID": 100,
+    "LoginRoleID": 2,
+    "MenuID": 5,
+    "UserName": "Admin",
+    "FullName": "Admin User",
+    "Password": "password",
+    "MenuName": "Dashboard",
+    "RoutingPath": "/dashboard",
+    "IconCssClass": "icon-dashboard",
+    "IconColorCssClass": "icon-blue"
+  }
+]

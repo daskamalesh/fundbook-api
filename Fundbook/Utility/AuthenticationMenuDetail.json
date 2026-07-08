@@ -1,0 +1,122 @@
+[
+  {
+    "MenuID": 1,
+    "ParentMenuID": 0, 
+    "LoginRoleID": 1, 
+    "MenuName": "Home",
+    "IconCSSClass": "bi bi-house",
+    "AlternateIconCSSClass": "bi bi-house-fill",
+    "PageName": "landing",
+    "BackColorCssClass": "bg-primary",
+    "IconColorCssClass": "fg-white",
+    "DisplayText": "Home"
+  },
+  {
+    "MenuID": 2,
+    "ParentMenuID": 0,
+    "LoginRoleID": 1, 
+    "MenuName": "Expense",
+    "IconCSSClass": "bi bi-calculator",
+    "AlternateIconCSSClass": "bi bi-calculator-fill",
+    "PageName": "expense",
+    "BackColorCssClass": "bg-success",
+    "IconColorCssClass": "fg-white",
+    "DisplayText": "Expense"
+  },
+  {
+    "MenuID": 3,
+    "ParentMenuID": 0,
+    "LoginRoleID": 1, 
+    "MenuName": "Add",
+    "IconCSSClass": "bi bi-bag-plus",
+    "AlternateIconCSSClass": "bi bi-bag-plus-fill",
+    "PageName": "bill",
+    "BackColorCssClass": "bg-warning",
+    "IconColorCssClass": "fg-white",
+    "DisplayText": "Add"
+  },
+  {
+    "MenuID": 4,
+    "ParentMenuID": 0,
+    "LoginRoleID": 1, 
+    "MenuName": "Utilities",
+    "IconCSSClass": "bi bi-clipboard2-check",
+    "AlternateIconCSSClass": "bi bi-clipboard2-check-fill",
+    "PageName": "utilities",
+    "BackColorCssClass": "bg-info",
+    "IconColorCssClass": "fg-white",
+    "DisplayText": "Utilities"
+  },
+  {
+    "MenuID": 5,
+    "ParentMenuID": 0,
+    "LoginRoleID": 1,
+    "MenuName": "Grocery",
+    "IconCSSClass": "bi bi-cart-plus",
+    "AlternateIconCSSClass": "bi bi-cart-plus-fill",
+    "PageName": "grocery",
+    "BackColorCssClass": "bg-secondary",
+    "IconColorCssClass": "fg-white",
+    "DisplayText": "Grocery"
+  },
+  {
+    "MenuID": 6,
+    "ParentMenuID": 0, 
+    "LoginRoleID": 2, 
+    "MenuName": "Home",
+    "IconCSSClass": "bi bi-house",
+    "AlternateIconCSSClass": "bi bi-house-fill",
+    "PageName": "landing",
+    "BackColorCssClass": "bg-primary",
+    "IconColorCssClass": "fg-white",
+    "DisplayText": "Home"
+  },
+  {
+    "MenuID": 7,
+    "ParentMenuID": 0,
+    "LoginRoleID": 2, 
+    "MenuName": "Budget",
+    "IconCSSClass": "bi bi-credit-card-2-front",
+    "AlternateIconCSSClass": "bi bi-credit-card-2-front-fill",
+    "PageName": "budget",
+    "BackColorCssClass": "bg-secondary",
+    "IconColorCssClass": "fg-white",
+    "DisplayText": "Budget"
+  },
+  {
+    "MenuID": 8,
+    "ParentMenuID": 0,
+    "LoginRoleID": 2,
+    "MenuName": "User",
+    "IconCSSClass": "bi bi-person-vcard",
+    "AlternateIconCSSClass": "bi bi-person-vcard-fill",
+    "PageName": "user_admin",
+    "BackColorCssClass": "bg-secondary",
+    "IconColorCssClass": "fg-white",
+    "DisplayText": "User"
+  },
+  {
+    "MenuID": 9,
+    "ParentMenuID": 0,
+    "LoginRoleID": 2, 
+    "MenuName": "Utilities",
+    "IconCSSClass": "bi bi-clipboard2-check",
+    "AlternateIconCSSClass": "bi bi-clipboard2-check-fill",
+    "PageName": "utility_admin",
+    "BackColorCssClass": "bg-info",
+    "IconColorCssClass": "fg-white",
+    "DisplayText": "Utilities"
+  },
+  {
+    "MenuID": 10,
+    "ParentMenuID": 0,
+    "LoginRoleID": 2, 
+    "MenuName": "Configuration",
+    "IconCSSClass": "bi bi-gear",
+    "AlternateIconCSSClass": "bi bi-gear-fill",
+    "PageName": "month_config",
+    "BackColorCssClass": "bg-info",
+    "IconColorCssClass": "fg-white",
+    "DisplayText": "Configuration"
+  }
+]
